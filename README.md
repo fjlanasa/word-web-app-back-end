@@ -1,4 +1,4 @@
-Hosted on Heroku: http://word-web-app-front-end.herokuapp.com/
+Hosted on Heroku: http://word-web-app-back-end.herokuapp.com/
 
 ### Getting Started
 ```
